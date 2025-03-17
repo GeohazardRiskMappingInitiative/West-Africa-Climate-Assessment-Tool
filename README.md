@@ -1,7 +1,7 @@
 # West-Africa-Climate-Assessment-Tool
 Using remote sensing , GIS and other Earth Observatory System applications for climate assessment in West African countries
 
-##MODIS Land Surface Temperature (LST) Viewer for Ghana
+## MODIS Land Surface Temperature (LST) Viewer for Ghana
 
 ### Overview
 
