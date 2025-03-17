@@ -40,7 +40,6 @@ Custom Legend: Clear visualization of data ranges
 
 ### Some Illustrated Results
 
-
 1. Land Surface Temperature (LST) in Nigeria on February 2002
 ![Modis Naija](https://github.com/user-attachments/assets/02388b7d-f73b-4d77-9d74-94121e564831)
 
@@ -55,8 +54,16 @@ Custom Legend: Clear visualization of data ranges
 
 ### Google Earth Engine Webapps
 
+https://ee-geohazardrisk-mapping.projects.earthengine.app/view/ghana-lst-assessment
+
+https://ee-geohazardrisk-mapping.projects.earthengine.app/view/ghana-precipitation-assessment
+
+https://ee-geohazardrisk-mapping.projects.earthengine.app/view/nigeria-lst-assessment
+
+https://ee-geohazardrisk-mapping.projects.earthengine.app/view/nigeria-precipitation-assessment
 
 ### License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
