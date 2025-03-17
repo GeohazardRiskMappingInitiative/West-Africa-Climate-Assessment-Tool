@@ -41,9 +41,22 @@ Custom Legend: Clear visualization of data ranges
 ### Some Illustrated Results
 
 
-1. Land Surface Temperature in Nigeria
+1. Land Surface Temperature (LST) in Nigeria on February 2002
 ![Modis Naija](https://github.com/user-attachments/assets/02388b7d-f73b-4d77-9d74-94121e564831)
 
-2. Rainfall patterns in Ghana
+2. LST time series from 2000 to 2024 in Abuja, Nigeria
+![MODIS Nigeria _Abuja region_2002_02](https://github.com/user-attachments/assets/232cd4aa-6312-4367-af7b-e4acba593ba8)
+
+3. Rainfall patterns in Ghana on May 1983
 ![Chirps GH](https://github.com/user-attachments/assets/3f35d1bd-ee26-4e1c-80b2-fed713ee53f5)
+
+4.Precipitation levels time series from 1981 to 2024 in Accra, Ghana
+![CHIRPS GH_Accra region_1983_06](https://github.com/user-attachments/assets/506a3abf-9c11-4032-a048-0e871fa5da25)
+
+### Google Earth Engine Webapps
+
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 
