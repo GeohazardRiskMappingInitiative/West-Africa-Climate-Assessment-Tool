@@ -9,6 +9,8 @@ This project is a Google Earth Engine (GEE) application that visualizes and anal
 
 Futhermore, the base code is modular therby making the same assessment possible at any local and/or national level by changing a few parameters to suit the desired ROI. 
 
+Credit to https://github.com/Osman-Geomatics93/Sudan-Climate-Analysis-Tool-2024- for the inspiration.
+
 ### Goals
 
 Visualize LST and Precipitation Data: Allow users to view MODIS Land Surface Temperature (LST) data & Rainfall Patterns.
@@ -37,6 +39,10 @@ Time Series Charts: Visual representation of temporal climate patterns
 Point Analysis: Click-based location-specific climate information
 
 Custom Legend: Clear visualization of data ranges
+
+### Methodology
+![Climate Analysis tool Flowchart](https://github.com/user-attachments/assets/b9b26e88-b049-45bd-89b2-f35af4118a69)
+
 
 ### Some Illustrated Results
 
